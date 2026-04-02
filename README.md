@@ -1,15 +1,17 @@
 # 👋 Olá, eu sou Johnata Rodrigues
 
-**Estudante de TI** | Automação + Infraestrutura Windows | Belo Horizonte - MG
+**Suporte Técnico N1** | Automação com Python & PowerShell | Infraestrutura Windows (em evolução)
 
-Apaixonado por transformar processos manuais em automações inteligentes e construir ambientes corporativos simulados.
+Atuo com suporte técnico em ambiente corporativo Windows, com foco em diagnóstico de problemas, análise de causa raiz e melhoria contínua.
+
+Busco evoluir para infraestrutura, automatizando tarefas e estruturando ambientes mais organizados e eficientes.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **[windows-homelab](https://github.com/rjohnata/windows-homelab)** — Ambiente completo Active Directory + automações
-- **[it-automation-toolkit](https://github.com/rjohnata/it-automation-toolkit)** — Toolkit de automação Python + PowerShell
+- **[windows-homelab](https://github.com/rjohnata/windows-homelab)** — Ambiente corporativo simulado com Active Directory e automação
+- **[it-automation-toolkit](https://github.com/rjohnata/it-automation-toolkit)** — Scripts de automação para rotinas de TI
 
 ---
 
